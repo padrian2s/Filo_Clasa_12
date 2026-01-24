@@ -1,0 +1,161 @@
+{
+  "title": "Filosofie - Manual pentru clasa a XII-a",
+  "subtitle": "Tip B",
+  "authors": [
+    {"name": "Ioan N. Roșca", "role": "coordonator"},
+    {"name": "Codruța Sorina Missbach", "role": "autor"},
+    {"name": "Gabriel Ion", "role": "autor"}
+  ],
+  "publisher": "CORINT",
+  "year": 2008,
+  "totalPages": 163,
+  "chapters": [
+    {
+      "id": 1,
+      "title": "OMUL",
+      "startPage": 5,
+      "sections": [
+        {"title": "Problematica naturii umane", "page": 6},
+        {"title": "Problema filosofică a omului", "page": 6},
+        {"title": "Esența omului", "page": 8},
+        {"title": "Omul este o persoană, nu un lucru", "page": 10},
+        {"title": "Omul - ființă socială", "page": 12},
+        {"title": "Identitate și alteritate", "page": 14},
+        {"title": "Omul - ființă culturală", "page": 16, "optional": true},
+        {"title": "Moduri de existență specifice umane și destinul creator al omului", "page": 16},
+        {"title": "Înrădăcinarea omului prin cultură, ca spirit", "page": 18},
+        {"title": "Sensul vieții", "page": 20},
+        {"title": "Recapitulare. Plan de idei", "page": 22},
+        {"title": "Evaluare", "page": 23},
+        {"title": "Interdisciplinaritate. Filosofie și idiologie", "page": 24}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "MORALA",
+      "startPage": 25,
+      "sections": [
+        {"title": "Specificul filosofiei morale", "page": 26},
+        {"title": "Ce este binele?", "page": 28},
+        {"title": "Conceptul despre bine și rău", "page": 30},
+        {"title": "Teorii morale", "page": 32},
+        {"title": "Etica teleologică. Eudemonismul", "page": 32},
+        {"title": "Etica teleologică. Hedonismul și utilitarismul", "page": 34},
+        {"title": "Etica deontologică", "page": 36},
+        {"title": "Probleme de etică aplicată", "page": 38},
+        {"title": "Recapitulare. Plan de idei", "page": 40},
+        {"title": "Evaluare", "page": 41},
+        {"title": "Interdisciplinaritate. Filosofie și cinematografie", "page": 42}
+      ]
+    },
+    {
+      "id": 3,
+      "title": "POLITICA",
+      "startPage": 43,
+      "sections": [
+        {"title": "Filosofia politică", "page": 44},
+        {"title": "Libertate și responsabilitate social-politică", "page": 46},
+        {"title": "Conceptul și problema filosofică a libertății", "page": 46},
+        {"title": "Liberal și liber", "page": 48},
+        {"title": "Problema libertății sociale", "page": 50},
+        {"title": "Libertate și autoritate", "page": 52},
+        {"title": "Egalitate și dreptate", "page": 54},
+        {"title": "Evoluția ideii de dreptate", "page": 54},
+        {"title": "Ce este dreptatea?", "page": 56},
+        {"title": "Conceptul aristotelic al dreptății", "page": 58},
+        {"title": "Dreptate formală și substanțială", "page": 60},
+        {"title": "Teorii politice moderne și contemporane", "page": 62},
+        {"title": "Teoriile contractului social", "page": 62},
+        {"title": "Liberalismul individual", "page": 64},
+        {"title": "Individualism și colectivism", "page": 66},
+        {"title": "Putere și legitimitate", "page": 68, "optional": true},
+        {"title": "Idealul democratic", "page": 70},
+        {"title": "Ce este democrația?", "page": 70},
+        {"title": "Drepturile omului", "page": 72},
+        {"title": "Ce sunt drepturile?", "page": 72},
+        {"title": "Asigurarea drepturilor", "page": 74},
+        {"title": "Idealul democratic. Rolul criticii în democrație", "page": 76},
+        {"title": "Recapitulare. Plan de idei", "page": 78},
+        {"title": "Evaluare", "page": 79},
+        {"title": "Interdisciplinaritate. Filosofie și literatură", "page": 80}
+      ]
+    },
+    {
+      "id": 4,
+      "title": "CUNOAȘTEREA",
+      "startPage": 81,
+      "sections": [
+        {"title": "Problema cunoașterii", "page": 82},
+        {"title": "Opinie și cunoaștere", "page": 84},
+        {"title": "Problema interacțiunii cunoașterii", "page": 86},
+        {"title": "Problema interacțiunii și problema surselor cunoașterii", "page": 88},
+        {"title": "Forme de cunoaștere și tipuri de adevăr", "page": 90},
+        {"title": "Cunoașterea nemijlocită și cunoașterea mijlocită", "page": 90},
+        {"title": "Analitic și Sintetic", "page": 92},
+        {"title": "Cunoașterea a priori și cunoașterea a posteriori", "page": 94},
+        {"title": "Adevăr", "page": 96},
+        {"title": "Ce este adevărul? Teoria corespondenței", "page": 96},
+        {"title": "Teoria pragmatistă a adevărului", "page": 98},
+        {"title": "Teoria adevărului-coerență", "page": 99},
+        {"title": "Natură, cauze și roluri în cunoaștere", "page": 100},
+        {"title": "Cunoaștere și limbaj", "page": 102},
+        {"title": "Problema limbajului", "page": 102},
+        {"title": "Filosofia limbajului comun", "page": 104},
+        {"title": "Recapitulare. Plan de idei", "page": 106},
+        {"title": "Evaluare", "page": 107},
+        {"title": "Interdisciplinaritate. Filosofie și religie", "page": 108}
+      ]
+    },
+    {
+      "id": 5,
+      "title": "EXISTENȚA",
+      "startPage": 109,
+      "sections": [
+        {"title": "Existență și devenire", "page": 110, "optional": true},
+        {"title": "Problematică ontologică", "page": 110},
+        {"title": "Principiul ontologic", "page": 112},
+        {"title": "Problema ființei", "page": 114},
+        {"title": "Distincția dintre ființă și devenire în filosofia platoniciană", "page": 116},
+        {"title": "Devenirea sau ființa", "page": 118},
+        {"title": "Spațiu și timp", "page": 120, "optional": true},
+        {"title": "Problema timpului", "page": 120},
+        {"title": "Timpul absolut și timpul relativ", "page": 122},
+        {"title": "Spațiul și timpul sunt forme a priori ale sensibilității", "page": 124},
+        {"title": "Problema eternității", "page": 126},
+        {"title": "Determinism", "page": 128, "optional": true},
+        {"title": "Determinism și indeterminism", "page": 128},
+        {"title": "Implicațiile determinismului", "page": 130},
+        {"title": "Recapitulare. Plan de idei", "page": 132},
+        {"title": "Evaluare", "page": 133},
+        {"title": "Interdisciplinaritate. Filosofie și fizică", "page": 134}
+      ]
+    },
+    {
+      "id": 6,
+      "title": "FILOSOFIA",
+      "startPage": 135,
+      "sections": [
+        {"title": "Ce este filosofia?", "page": 136},
+        {"title": "Geneza și utilitatea filosofiei", "page": 136},
+        {"title": "Iubire de înțelepciune", "page": 138},
+        {"title": "Mirarea", "page": 140},
+        {"title": "Filosofie și teologie", "page": 142},
+        {"title": "Filosofia critică", "page": 144},
+        {"title": "Filosofia ca viziune subiectivă", "page": 146},
+        {"title": "Filosofia ca formă de analiză conceptuală", "page": 148},
+        {"title": "Filosofie și viață", "page": 150},
+        {"title": "Rolul și valoarea filosofiei", "page": 150},
+        {"title": "Axiologia filosofiei", "page": 152},
+        {"title": "Recapitulare. Plan de idei", "page": 154},
+        {"title": "Evaluare", "page": 155},
+        {"title": "Interdisciplinaritate. Filosofie și spiritualitate", "page": 156}
+      ]
+    }
+  ],
+  "annexes": [
+    {"title": "Analiza conceptuală", "page": 157},
+    {"title": "Analiza de text", "page": 158},
+    {"title": "Eseu filosofic", "page": 158},
+    {"title": "Bibliografie generală", "page": 159}
+  ]
+}

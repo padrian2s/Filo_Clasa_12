@@ -1,0 +1,228 @@
+{
+  "concepts": [
+    {
+      "term": "Alteritate",
+      "definition": "Corelativ al identității; calitate a fi diferit. În filosofie, conceptul desemnează ceea ce este altul, diferit de sine.",
+      "etymology": "lat. alteritas - a fi altul",
+      "relatedTerms": ["identitate", "Celălalt", "diferență"],
+      "philosophers": ["Platon", "Emmanuel Lévinas", "Jean-Paul Sartre"],
+      "chapters": [1]
+    },
+    {
+      "term": "Antropologie filosofică",
+      "definition": "Disciplina filosofică în care problema omului este studiată sub aspect natural, existențial, duchovnic, spiritual și în raport cu lumea.",
+      "etymology": "gr. anthropos (om) + logos (știință)",
+      "relatedTerms": ["natura umană", "esența omului", "condiție umană"],
+      "philosophers": ["Max Scheler", "Helmuth Plessner"],
+      "chapters": [1]
+    },
+    {
+      "term": "Binele",
+      "definition": "Categorie morală fundamentală care desemnează ceea ce este dezirabil, valoros, conform cu virtutea.",
+      "etymology": "lat. bonus",
+      "relatedTerms": ["răul", "virtute", "moralitate"],
+      "philosophers": ["Platon", "Aristotel", "Kant"],
+      "chapters": [2]
+    },
+    {
+      "term": "Condiție umană",
+      "definition": "Modul în care omul se manifestă în raport cu natura, istoria, ființa, cu condițiile sociale; modul particular de ființă.",
+      "etymology": null,
+      "relatedTerms": ["existență", "libertate", "finitudine"],
+      "philosophers": ["Blaise Pascal", "André Malraux"],
+      "chapters": [1]
+    },
+    {
+      "term": "Contract social",
+      "definition": "Acord ipotetic prin care indivizii renunță la libertatea naturală în schimbul protecției oferite de stat.",
+      "etymology": null,
+      "relatedTerms": ["stare naturală", "suveranitate", "voință generală"],
+      "philosophers": ["Thomas Hobbes", "John Locke", "Jean-Jacques Rousseau"],
+      "chapters": [3]
+    },
+    {
+      "term": "Datorie",
+      "definition": "În etica kantiană, principiul care fundamentează actul moral-rațional, indiferent de consecințele acestuia.",
+      "etymology": "lat. debere - a datora",
+      "relatedTerms": ["imperativ categoric", "autonomie", "morală"],
+      "philosophers": ["Immanuel Kant"],
+      "chapters": [2]
+    },
+    {
+      "term": "Democrație",
+      "definition": "Formă de guvernământ în care puterea aparține poporului, exercitată direct sau prin reprezentanți.",
+      "etymology": "gr. demos (popor) + kratos (putere)",
+      "relatedTerms": ["libertate", "egalitate", "drepturi"],
+      "philosophers": ["Aristotel", "John Stuart Mill", "Alexis de Tocqueville"],
+      "chapters": [3]
+    },
+    {
+      "term": "Determinism",
+      "definition": "Doctrină filosofică conform căreia toate evenimentele sunt cauzate de evenimente anterioare conform legilor naturii.",
+      "etymology": "lat. determinare - a limita",
+      "relatedTerms": ["indeterminism", "libertate", "cauzalitate"],
+      "philosophers": ["Pierre-Simon Laplace", "Baruch Spinoza"],
+      "chapters": [5]
+    },
+    {
+      "term": "Dreptate",
+      "definition": "Virtute cardinală care constă în a da fiecăruia ceea ce i se cuvine; echitate în distribuirea bunurilor și pedepselor.",
+      "etymology": "lat. directus",
+      "relatedTerms": ["egalitate", "echitate", "drepturi"],
+      "philosophers": ["Platon", "Aristotel", "John Rawls"],
+      "chapters": [3]
+    },
+    {
+      "term": "Esență",
+      "definition": "Ceea ce face ca un lucru să fie ceea ce este; natură fundamentală, caracteristici definitorii.",
+      "etymology": "lat. essentia",
+      "relatedTerms": ["existență", "substanță", "formă"],
+      "philosophers": ["Aristotel", "Husserl"],
+      "chapters": [1, 5]
+    },
+    {
+      "term": "Eudemonism",
+      "definition": "Teorie etică care consideră fericirea (eudaimonia) drept scopul suprem al vieții morale.",
+      "etymology": "gr. eudaimonia - fericire",
+      "relatedTerms": ["fericire", "virtute", "bine"],
+      "philosophers": ["Aristotel", "Sf. Augustin"],
+      "chapters": [2]
+    },
+    {
+      "term": "Existențialism",
+      "definition": "Curent filosofic care pune accentul pe existența individuală, libertate, alegere și angoasă.",
+      "etymology": null,
+      "relatedTerms": ["existență", "libertate", "angoasă", "autenticitate"],
+      "philosophers": ["Jean-Paul Sartre", "Martin Heidegger", "Albert Camus"],
+      "chapters": [1, 5]
+    },
+    {
+      "term": "Filosofie",
+      "definition": "Iubire de înțelepciune; disciplină care cercetează principiile fundamentale ale realității, cunoașterii și valorilor.",
+      "etymology": "gr. philos (iubire) + sophia (înțelepciune)",
+      "relatedTerms": ["metafizică", "epistemologie", "etică"],
+      "philosophers": null,
+      "chapters": [6]
+    },
+    {
+      "term": "Ființă",
+      "definition": "Concept ontologic fundamental care desemnează ceea ce există, realitatea în ansamblu.",
+      "etymology": "lat. esse - a fi",
+      "relatedTerms": ["existență", "neant", "devenire"],
+      "philosophers": ["Parmenide", "Platon", "Martin Heidegger"],
+      "chapters": [5]
+    },
+    {
+      "term": "Hedonism",
+      "definition": "Teorie etică care consideră plăcerea drept binele suprem și scopul vieții.",
+      "etymology": "gr. hedone - plăcere",
+      "relatedTerms": ["plăcere", "utilitarism", "epicureism"],
+      "philosophers": ["Aristip din Cirene", "Epicur"],
+      "chapters": [2]
+    },
+    {
+      "term": "Identitate",
+      "definition": "Ansamblul trăsăturilor prin care se determină ce este o ființă, atât în raport cu sine cât și cu celelalte ființe.",
+      "etymology": "lat. identitas",
+      "relatedTerms": ["alteritate", "sine", "persoană"],
+      "philosophers": ["John Locke", "David Hume"],
+      "chapters": [1]
+    },
+    {
+      "term": "Imperativ categoric",
+      "definition": "În etica kantiană, poruncă morală necondiționată care trebuie respectată indiferent de consecințe.",
+      "etymology": null,
+      "relatedTerms": ["datorie", "autonomie", "voință"],
+      "philosophers": ["Immanuel Kant"],
+      "chapters": [2]
+    },
+    {
+      "term": "Libertate",
+      "definition": "Capacitatea de a acționa conform propriei voințe, fără constrângeri externe sau interne.",
+      "etymology": "lat. libertas",
+      "relatedTerms": ["determinism", "voință", "autonomie"],
+      "philosophers": ["Jean-Paul Sartre", "John Stuart Mill", "Isaiah Berlin"],
+      "chapters": [1, 3]
+    },
+    {
+      "term": "Metafizică",
+      "definition": "Ramură a filosofiei care studiază natura fundamentală a realității, existenței și ființei.",
+      "etymology": "gr. ta meta ta physika - cele de dincolo de fizică",
+      "relatedTerms": ["ontologie", "ființă", "substanță"],
+      "philosophers": ["Aristotel", "Descartes", "Leibniz"],
+      "chapters": [5, 6]
+    },
+    {
+      "term": "Morală",
+      "definition": "Ansamblu de reguli și valori comportamentale acceptate de o societate sau grup social la un moment dat.",
+      "etymology": "lat. moralis - relativ la obiceiuri",
+      "relatedTerms": ["etică", "virtute", "datorie"],
+      "philosophers": null,
+      "chapters": [2]
+    },
+    {
+      "term": "Ontologie",
+      "definition": "Ramură a metafizicii care studiază ființa în sine, existența ca atare.",
+      "etymology": "gr. on (ființă) + logos (știință)",
+      "relatedTerms": ["metafizică", "ființă", "existență"],
+      "philosophers": ["Parmenide", "Martin Heidegger"],
+      "chapters": [5]
+    },
+    {
+      "term": "Persoană",
+      "definition": "Ființă umană considerată în unicitatea și demnitatea sa, ca subiect moral și rațional.",
+      "etymology": "lat. persona - mască",
+      "relatedTerms": ["identitate", "demnitate", "drepturile omului"],
+      "philosophers": ["Immanuel Kant", "Emmanuel Mounier"],
+      "chapters": [1]
+    },
+    {
+      "term": "Substanță",
+      "definition": "Ceea ce există prin sine însuși, suport al atributelor și schimbărilor.",
+      "etymology": "lat. substantia - ceea ce stă dedesubt",
+      "relatedTerms": ["accident", "esență", "atribut"],
+      "philosophers": ["Aristotel", "Descartes", "Spinoza", "Leibniz"],
+      "chapters": [5]
+    },
+    {
+      "term": "Utilitarism",
+      "definition": "Teorie etică care evaluează acțiunile în funcție de consecințele lor asupra fericirii generale.",
+      "etymology": "lat. utilis - util",
+      "relatedTerms": ["consecvențialism", "fericire", "principiul utilității"],
+      "philosophers": ["Jeremy Bentham", "John Stuart Mill"],
+      "chapters": [2]
+    },
+    {
+      "term": "Virtute",
+      "definition": "Dispoziție stabilă de a acționa conform binelui; excelență morală.",
+      "etymology": "lat. virtus - bărbăție, forță morală",
+      "relatedTerms": ["bine", "caracter", "fericire"],
+      "philosophers": ["Aristotel", "Platon", "Toma d'Aquino"],
+      "chapters": [2]
+    },
+    {
+      "term": "Voință",
+      "definition": "Facultate prin care omul decide și acționează conform rațiunii sau dorinței.",
+      "etymology": "lat. voluntas",
+      "relatedTerms": ["libertate", "autonomie", "determinism"],
+      "philosophers": ["Kant", "Schopenhauer", "Nietzsche"],
+      "chapters": [2, 5]
+    },
+    {
+      "term": "Cunoaștere",
+      "definition": "Procesul și rezultatul achiziționării de informații și înțelegere despre realitate.",
+      "etymology": "lat. cognoscere",
+      "relatedTerms": ["adevăr", "opinie", "știință"],
+      "philosophers": ["Platon", "Aristotel", "Descartes", "Kant"],
+      "chapters": [4]
+    },
+    {
+      "term": "Adevăr",
+      "definition": "Conformitatea dintre judecată și realitate; ceea ce corespunde faptelor.",
+      "etymology": "lat. veritas",
+      "relatedTerms": ["cunoaștere", "eroare", "coerență"],
+      "philosophers": ["Aristotel", "Tarski", "pragmatiștii"],
+      "chapters": [4]
+    }
+  ]
+}

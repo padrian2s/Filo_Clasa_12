@@ -1,0 +1,283 @@
+{
+  "philosophers": [
+    {
+      "id": "aristotel",
+      "name": "Aristotel",
+      "dates": "384-322 î.Hr.",
+      "nationality": "grec",
+      "portrait": null,
+      "shortBio": "Filosof grec antic, fondatorul logicii formale și al multor discipline științifice.",
+      "mainWorks": ["Metafizica", "Etica nicomahică", "Politica", "Organon"],
+      "keyConcepts": ["zoon politikon", "eudaimonia", "virtute", "act și potență", "cauze"],
+      "quotes": [
+        "Omul este prin natură un animal politic.",
+        "Fericirea este activitatea sufletului în acord cu virtutea.",
+        "Noi suntem ceea ce facem în mod repetat. Excelența nu este deci un act, ci un obicei."
+      ],
+      "chapters": [1, 2, 3]
+    },
+    {
+      "id": "platon",
+      "name": "Platon",
+      "dates": "428-348 î.Hr.",
+      "nationality": "grec",
+      "portrait": null,
+      "shortBio": "Filosof grec, fondatorul Academiei din Atena, autorul teoriei Ideilor.",
+      "mainWorks": ["Republica", "Symposion", "Phaidon", "Timaios"],
+      "keyConcepts": ["teoria Ideilor", "Binele în sine", "peștera", "reminiscență", "alteritate"],
+      "quotes": [
+        "Corpul este mormântul sufletului.",
+        "A fi înțelept înseamnă a ști că nu știi nimic.",
+        "Măsura tuturor lucrurilor este omul."
+      ],
+      "chapters": [1, 2, 4]
+    },
+    {
+      "id": "kant",
+      "name": "Immanuel Kant",
+      "dates": "1724-1804",
+      "nationality": "german",
+      "portrait": null,
+      "shortBio": "Filosof german, figura centrală a filosofiei moderne, autor al Criticilor.",
+      "mainWorks": ["Critica rațiunii pure", "Critica rațiunii practice", "Întemeierea metafizicii moravurilor"],
+      "keyConcepts": ["imperativ categoric", "noumen/fenomen", "a priori/a posteriori", "datorie", "autonomie"],
+      "quotes": [
+        "Cerul înstelat deasupra mea și legea morală în mine.",
+        "Acționează astfel încât maxima acțiunii tale să poată deveni lege universală.",
+        "Omul este scop în sine, nu mijloc."
+      ],
+      "chapters": [1, 2, 4, 5]
+    },
+    {
+      "id": "descartes",
+      "name": "René Descartes",
+      "dates": "1596-1650",
+      "nationality": "francez",
+      "portrait": null,
+      "shortBio": "Filosof francez, părintele filosofiei moderne și al raționalismului.",
+      "mainWorks": ["Meditații metafizice", "Discurs asupra metodei"],
+      "keyConcepts": ["cogito ergo sum", "dubiu metodic", "dualism", "substanță", "res cogitans"],
+      "quotes": [
+        "Cogito, ergo sum - Gândesc, deci exist.",
+        "Îndoiala este originea înțelepciunii.",
+        "De omnibus dubitandum - Trebuie să ne îndoim de toate."
+      ],
+      "chapters": [1, 4]
+    },
+    {
+      "id": "sartre",
+      "name": "Jean-Paul Sartre",
+      "dates": "1905-1980",
+      "nationality": "francez",
+      "portrait": null,
+      "shortBio": "Filosof și scriitor francez, principalul reprezentant al existențialismului.",
+      "mainWorks": ["Ființa și neantul", "Existențialismul este un umanism", "Greața"],
+      "keyConcepts": ["existența precede esența", "libertate", "angoasă", "rea-credință", "Celălalt"],
+      "quotes": [
+        "Omul este condamnat să fie liber.",
+        "Existența precede esența.",
+        "Iadul sunt ceilalți."
+      ],
+      "chapters": [1, 5]
+    },
+    {
+      "id": "nietzsche",
+      "name": "Friedrich Nietzsche",
+      "dates": "1844-1900",
+      "nationality": "german",
+      "portrait": null,
+      "shortBio": "Filosof german, critic al moralei tradiționale și al valorilor occidentale.",
+      "mainWorks": ["Așa grăit-a Zarathustra", "Dincolo de bine și de rău", "Genealogia moralei"],
+      "keyConcepts": ["voința de putere", "supraom", "eterna reîntoarcere", "resentiment", "transvaluare"],
+      "quotes": [
+        "Dumnezeu a murit.",
+        "Ceea ce nu mă ucide mă face mai puternic.",
+        "Devino ceea ce ești."
+      ],
+      "chapters": [1, 2]
+    },
+    {
+      "id": "camus",
+      "name": "Albert Camus",
+      "dates": "1913-1960",
+      "nationality": "francez",
+      "portrait": null,
+      "shortBio": "Scriitor și filosof francez, laureat Nobel, teoretician al absurdului.",
+      "mainWorks": ["Mitul lui Sisif", "Străinul", "Ciuma", "Omul revoltat"],
+      "keyConcepts": ["absurd", "revoltă", "Sisif", "sens"],
+      "quotes": [
+        "Trebuie să-l imaginăm pe Sisif fericit.",
+        "În mijlocul iernii am descoperit în mine o vară invincibilă.",
+        "Singura problemă filosofică cu adevărat serioasă este sinuciderea."
+      ],
+      "chapters": [1]
+    },
+    {
+      "id": "blaga",
+      "name": "Lucian Blaga",
+      "dates": "1895-1961",
+      "nationality": "român",
+      "portrait": null,
+      "shortBio": "Poet, dramaturg și filosof român, creatorul unei metafizici originale a culturii.",
+      "mainWorks": ["Trilogia cunoașterii", "Trilogia culturii", "Trilogia valorilor"],
+      "keyConcepts": ["Marele Anonim", "mister", "revelare", "matricea stilistică", "cenzura transcendentă"],
+      "quotes": [
+        "Eu nu strivesc corola de minuni a lumii.",
+        "Cultura e omenească, e adevărul nostru.",
+        "Omul este definit prin existența întru mister și pentru revelare."
+      ],
+      "chapters": [1]
+    },
+    {
+      "id": "noica",
+      "name": "Constantin Noica",
+      "dates": "1909-1987",
+      "nationality": "român",
+      "portrait": null,
+      "shortBio": "Filosof și eseist român, teoretician al culturii și al devenirii întru ființă.",
+      "mainWorks": ["Devenirea întru ființă", "Sentimentul românesc al ființei", "Șase maladii ale spiritului"],
+      "keyConcepts": ["devenire întru ființă", "individual/general", "logica lui Hermes"],
+      "quotes": [
+        "Cultura e omenească, e adevărul nostru, e ordinea după chipul și asemănarea noastră.",
+        "Omul este o ființă care devine."
+      ],
+      "chapters": [1]
+    },
+    {
+      "id": "rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "dates": "1712-1778",
+      "nationality": "francez",
+      "portrait": null,
+      "shortBio": "Filosof francez, teoretician al contractului social și al educației naturale.",
+      "mainWorks": ["Contractul social", "Emile", "Discurs asupra inegalității"],
+      "keyConcepts": ["contract social", "voință generală", "stare naturală", "bun sălbatic"],
+      "quotes": [
+        "Omul se naște liber, dar pretutindeni este în lanțuri.",
+        "Primul care a îngrădit un teren și a spus: Acesta este al meu a fost adevăratul fondator al societății civile."
+      ],
+      "chapters": [1, 3]
+    },
+    {
+      "id": "hobbes",
+      "name": "Thomas Hobbes",
+      "dates": "1588-1679",
+      "nationality": "englez",
+      "portrait": null,
+      "shortBio": "Filosof englez, teoretician al absolutismului politic și al contractualismului.",
+      "mainWorks": ["Leviathan", "De Cive"],
+      "keyConcepts": ["stare de natură", "bellum omnium contra omnes", "contract social", "suveranitate"],
+      "quotes": [
+        "Omul este lup pentru om.",
+        "Viața omului este solitară, săracă, murdară, brutală și scurtă."
+      ],
+      "chapters": [1, 3]
+    },
+    {
+      "id": "locke",
+      "name": "John Locke",
+      "dates": "1632-1704",
+      "nationality": "englez",
+      "portrait": null,
+      "shortBio": "Filosof englez, fondatorul liberalismului clasic și al empirismului modern.",
+      "mainWorks": ["Eseu asupra intelectului omenesc", "Două tratate despre cârmuire"],
+      "keyConcepts": ["tabula rasa", "drepturi naturale", "proprietate", "toleranță"],
+      "quotes": [
+        "Mintea este o tablă ștearsă.",
+        "Acolo unde nu există lege, nu există libertate."
+      ],
+      "chapters": [3, 4]
+    },
+    {
+      "id": "pascal",
+      "name": "Blaise Pascal",
+      "dates": "1623-1662",
+      "nationality": "francez",
+      "portrait": null,
+      "shortBio": "Matematician, fizician și filosof francez, reprezentant al antropologiei creștine.",
+      "mainWorks": ["Cugetări", "Scrisori provinciale"],
+      "keyConcepts": ["disproporție", "tragic", "pariu", "ordine a inimii"],
+      "quotes": [
+        "Omul nu este decât o trestie, cea mai slabă din natură, dar o trestie gânditoare.",
+        "Inima are rațiunile ei pe care rațiunea nu le cunoaște.",
+        "Tăcerea eternă a acestor spații infinite mă înspăimântă."
+      ],
+      "chapters": [1]
+    },
+    {
+      "id": "heidegger",
+      "name": "Martin Heidegger",
+      "dates": "1889-1976",
+      "nationality": "german",
+      "portrait": null,
+      "shortBio": "Filosof german, autor al unei ontologii fundamentale centrate pe Dasein.",
+      "mainWorks": ["Ființă și timp", "Introducere în metafizică"],
+      "keyConcepts": ["Dasein", "ființă-în-lume", "angoasă", "autenticitate", "temporalitate"],
+      "quotes": [
+        "Limbajul este casa ființei.",
+        "Omul este păstorul ființei."
+      ],
+      "chapters": [1, 5]
+    },
+    {
+      "id": "mill",
+      "name": "John Stuart Mill",
+      "dates": "1806-1873",
+      "nationality": "englez",
+      "portrait": null,
+      "shortBio": "Filosof și economist englez, reprezentant major al utilitarismului și liberalismului.",
+      "mainWorks": ["Utilitarismul", "Despre libertate", "Supunerea femeilor"],
+      "keyConcepts": ["utilitate", "principiul celei mai mari fericiri", "libertate individuală"],
+      "quotes": [
+        "Acțiunile sunt juste în măsura în care tind să promoveze fericirea.",
+        "Este mai bine să fii un Socrate nesatisfăcut decât un porc satisfăcut."
+      ],
+      "chapters": [2, 3]
+    },
+    {
+      "id": "augustin",
+      "name": "Sf. Augustin din Hippona",
+      "dates": "354-430",
+      "nationality": "roman/nord-african",
+      "portrait": null,
+      "shortBio": "Teolog și filosof creștin, unul dintre Părinții Bisericii.",
+      "mainWorks": ["Confesiuni", "Cetatea lui Dumnezeu"],
+      "keyConcepts": ["grație", "păcat originar", "liberul arbitru", "cetate pământească/cerească"],
+      "quotes": [
+        "Iubește și fă ce vrei.",
+        "Ne-ai făcut pentru Tine, Doamne, și inima noastră este neliniștită până nu se odihnește în Tine."
+      ],
+      "chapters": [2]
+    },
+    {
+      "id": "epicur",
+      "name": "Epicur",
+      "dates": "341-270 î.Hr.",
+      "nationality": "grec",
+      "portrait": null,
+      "shortBio": "Filosof grec, fondatorul hedonismului și al școlii din Grădină.",
+      "mainWorks": ["Scrisoare către Menoeceu", "Maxime capitale"],
+      "keyConcepts": ["hedonism", "plăcere", "ataraxie", "atomism"],
+      "quotes": [
+        "Moartea nu este nimic pentru noi.",
+        "Nu avem nevoie de atâta fericire cât de absența nefericirii."
+      ],
+      "chapters": [2]
+    },
+    {
+      "id": "cioran",
+      "name": "Emil Cioran",
+      "dates": "1911-1995",
+      "nationality": "român",
+      "portrait": null,
+      "shortBio": "Filosof și eseist român de expresie franceză, reprezentant al pesimismului.",
+      "mainWorks": ["Pe culmile disperării", "Ispita de a exista", "Tratat de descompunere"],
+      "keyConcepts": ["disperare", "neant", "scepticism"],
+      "quotes": [
+        "A fi născut: nu-mi pot închipui nenorocire mai mare.",
+        "Orice gând care nu este pesimist este fals."
+      ],
+      "chapters": [1]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "filo_clasa_12",
+  "version": "1.0.0",
+  "description": "Manual interactiv de Filosofie pentru clasa a XII-a",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "filosofie",
+    "educatie",
+    "manual",
+    "clasa-12"
+  ],
+  "author": "Ioan N. Roșca, Codruța Sorina Missbach, Gabriel Ion",
+  "license": "ISC",
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.3",
+    "pinia": "^3.0.4",
+    "vite": "^7.3.1",
+    "vue": "^3.5.27",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "fuse.js": "^7.1.0",
+    "marked": "^17.0.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}
