@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/filo_clasa_12/',
+  base: '/Filo_Clasa_12/',
   resolve: {
     alias: {
       '@': resolve(__dirname, 'src'),
